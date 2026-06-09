@@ -1,0 +1,3 @@
+Abstract
+
+ResQMed is an AI-powered emergency healthcare assistance platform designed to help patients quickly access essential medical resources during emergencies. The platform provides real-time information regarding hospital bed availability, blood availability, ambulance services, and nearby hospitals. By connecting patients, hospitals, blood banks, and ambulance providers on a single platform, ResQMed helps reduce emergency response time and improves healthcare accessibility. The system aims to save lives by enabling faster decision-making and efficient resource utilization during critical situations.
