@@ -100,13 +100,7 @@ Tools
 
 ⸻
 
-Team Members
-
-* Nivashini Rajendran
-* Nithya Rubini
-* Nivetha
-* Nikitha
-
+Developer: Nivashini K R
 ⸻
 
 Future Enhancements
